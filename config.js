@@ -11,7 +11,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['51907376960', 'ZxYerSixZx ', true],
-  ['51907376960', 'ZxYerSixZx', true],
+  ['51942928769', 'ZxYerSixZx', true],
   ['51907376960'],
   ['51907376960'],
   ['51907376960'],
@@ -32,11 +32,11 @@ global.prems = []
 
 global.packname = ``
 global.author = '{\n "bot": {\n   "name": "★☪Hades-Bot☪★",\n     "author": "ZxYerSixZx",\n   "status_bot": "active"\n }\n}'
-global.wait = '🐲 *Aɢᴜᴀʀᴅᴇ mortal,🗡️Dios Hades🗡️... ฅ^•ﻌ•^ฅ*'
-global.botname = '★☪Hades-Bot☪★'
-global.textbot = `ZxYerSixZx`
-global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '[★Hades-Bot ★] '
+global.wait = 'se está enviando 📩'
+global.botname = 'Bot prime'
+global.textbot = `Alessandro`
+global.listo = '*A qui tiene'
+global.namechannel = '[Bot prime] '
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
