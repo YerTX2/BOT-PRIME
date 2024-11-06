@@ -31,7 +31,7 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "★☪Hades-Bot☪★",\n     "author": "ZxYerSixZx",\n   "status_bot": "active"\n }\n}'
+global.author = '{\n "bot": {\n   "name": "Bot prime",\n     "author": "Alessandro",\n   "status_bot": "active"\n }\n}'
 global.wait = 'se está enviando 📩'
 global.botname = 'Bot prime'
 global.textbot = `Alessandro`
