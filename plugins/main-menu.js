@@ -22,14 +22,11 @@ let tags = {
 
 const defaultMenu = {
   before: `
-*︵‿︵‿︵‿︵ ︵‿︵‿︵‿︵︵‿︵‿*
-
-“ Hola mortal *%name* soy  *⚝Hades⚝*, %greeting ”
-
+*︵‿︵‿︵‿︵ ︵‿︵‿︵‿︵︵‿︵‿*
      ⋆[ *>INFO DE Prime<* ]
  ↡▰▱▰▱▰▱▰▱▰▱▰▱▰▱
  》* 🪐Estado* :  Bot prime
- 》*🗡️ Baileys* : Hades multi
+ 》*🗡️ Baileys* : Bot prime multi
  》*⌛ Despierto * : %muptime
  》*👥Mortales* : %totalreg
  ↟▰▱▰▱▰▱▰▱▰▱▰▱▰▱
