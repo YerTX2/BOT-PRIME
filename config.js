@@ -34,7 +34,7 @@ global.packname = ``
 global.author = '{\n "bot": {\n   "name": "Bot prime",\n     "author": "Alessandro",\n   "status_bot": "active"\n }\n}'
 global.wait = 'se está enviando 📩'
 global.botname = 'Bot prime'
-global.textbot = `Alessandro`
+global.textbot = `BOT PRIME`
 global.listo = '*A qui tiene'
 global.namechannel = '[Bot prime] '
 
