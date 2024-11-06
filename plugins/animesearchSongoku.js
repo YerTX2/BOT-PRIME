@@ -88,6 +88,6 @@ handler.help = ['animesearch <nombre>'];
 handler.tags = ['downloader', 'search'];
 handler.command = ['animeflvsearch', 'animeflv', 'animesearch'];
 handler.group = true
-handler.limit = 1
+//handler.limit = 1
 
 export default handler;
