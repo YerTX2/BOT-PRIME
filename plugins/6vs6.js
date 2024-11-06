@@ -3,6 +3,8 @@ const handler = async (m, {conn}) => {
 };
 handler.command = /^(Vs6)$/i;
 export default handler;
+handler.help = ['.Vs6']
+handler.tags = ['Freefire']
 handler.group = true
 handler.botAdmin = true
 
