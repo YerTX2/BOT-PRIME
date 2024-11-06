@@ -26,5 +26,5 @@ handler.help = ['tiktok *<url tt>*']
 handler.tags = ['downloader']
 handler.command = /^(tiktok|ttdl|tiktokdl|tiktoknowm)$/i
 handler.group = true
-handler.limit = 1
+//handler.limit = 1
 export default handler
