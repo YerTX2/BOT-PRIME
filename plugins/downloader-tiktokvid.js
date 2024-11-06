@@ -87,7 +87,7 @@ let handler = async (message, { conn, text }) => {
 handler.help = ['tiktoksearch <que va a buscar>'];
 handler.tags = ['downloader'];
 handler.command = ['tiktoksearch','tts','ttsearch'];
-handler.limit = 5
+//handler.limit = 5
 handler.group = true
 
 export default handler;
