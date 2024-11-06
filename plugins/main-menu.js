@@ -4,6 +4,7 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
+ 'rpg': 'RPG', 
   
 }
 
