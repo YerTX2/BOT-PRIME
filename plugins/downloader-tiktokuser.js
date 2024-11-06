@@ -38,6 +38,6 @@ handler.help = ['tiktokuser *<usuario>*']
 handler.command = ['tiktokuser', 'tiktokus']
 //handler.register = true
 handler.group = true
-handler.limit = 5
+//handler.limit = 5
 
 export default handler
