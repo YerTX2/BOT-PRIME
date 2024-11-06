@@ -4,7 +4,7 @@ const handler = async (m, {conn}) => {
 handler.command = /^(Vs4)$/i;
 export default handler;
 handler.group = true
-handler.help = ['.Vs4']
+handler.help = ['Vs4']
 handler.tags = ['free'];
 handler.botAdmin = true
 
