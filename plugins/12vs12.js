@@ -5,7 +5,7 @@ handler.command = /^(Vs12)$/i;
 export default handler;
 handler.group = true
 handler.help = ['.Vs12']
-handler.tags = ['Freefire']
+handler.tags = ['free'];
 handler.botAdmin = true
 
 global.Vs12 = `
