@@ -30,6 +30,6 @@ global.bsfem = `
 ⊹ ִֶָ  🌷Con logo en mano
 
 🎀Hablar:🎀
-wa.me/
-wa.me/
+wa.me/+51 974 716 659
+wa.me/+51 903 090 913
 `;
