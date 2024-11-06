@@ -56,6 +56,6 @@ handler.help = ['animedl <anime-id> <episode-number>'];
 handler.tags = ['downloader'];
 handler.command = ['animedl', 'animeflvdl', 'anidl'];
 handler.group = true
-handler.limit = 15
+//handler.limit = 15
 
 export default handler;
