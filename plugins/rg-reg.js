@@ -31,7 +31,7 @@ await conn.sendAi(m.chat, botname, textbot, txt, img, img, canal, m)
 await m.react('✅')
 }
 handler.help = ['reg'].map(v => v + ' *<nombre.edad>*')
-handler.tags = ['rg']
+//handler.tags = ['rg']
 
 handler.command = ['verify', 'reg', 'register', 'registrar'] 
 
